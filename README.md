@@ -1,6 +1,6 @@
 # LIENS DU PROJET SPRINT05 A.THOMAS
 
-## NOTICE SPRINT02<br>
+## NOTICE SPRINT05<br>
 Double cliquer sur ficher index.html pour lancer la page
 
 ## PAGE GITHUB<br>
